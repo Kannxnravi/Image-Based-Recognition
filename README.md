@@ -2,7 +2,7 @@
 Using Dogs and Cats
 
 
-In this, you will build a convolutional neural network from scratch to classify images into two categories, dog or cat, with a 92% accuracy.
+In this, you will build a convolutional neural network from scratch to classify images into two categories, dog or cat, with a 82% accuracy.
 
 We're not going to use transfer learning this time (so no cheating!), and I will explain in details the process I followed to solve this classic problem.
 
